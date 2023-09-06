@@ -1,7 +1,7 @@
-# Pyspark-Data-warehouse and Predictibe modeling
+# Pyspark Data-warehouse and Predictive modeling
 
 ### Overview
-This GitHub repository contains code and documentation for a comprehensive data analysis and predictive modeling project. The project covers a wide range of tasks, including data preprocessing, exploratory data analysis (EDA), segmentation analysis, and classification analysis. Additionally, it includes a predictive modeling component using linear regression.
+This GitHub repository contains code and documentation for a building a data warehouse using pyspark sql, a comprehensive data analysis, and predictive modeling. The project covers a wide range of tasks, including data preprocessing, exploratory data analysis (EDA), segmentation analysis, and classification analysis. Additionally, it includes a predictive modeling component using linear regression.
 
 ### Table of Contents
 1. [Introduction](#introduction)
@@ -14,7 +14,7 @@ This GitHub repository contains code and documentation for a comprehensive data 
 8. [Conclusion](#conclusion)
 
 ### Introduction <a name="introduction"></a>
-This project demonstrates various data analysis and modeling techniques using PySpark and Python libraries. It covers tasks such as data extraction, transformation, and loading (ETL), exploratory data analysis, customer segmentation, classification analysis, and predictive modeling.
+This project demonstrates various data analysis and modeling techniques using PySpark and Python libraries. It involves creating a data warehouse from facts and dimensions tables, and covers tasks such as data extraction, transformation, and loading (ETL), exploratory data analysis, customer segmentation, classification analysis, and predictive modeling.
 
 ### Installation <a name="installation"></a>
 To run the code in this repository, you need to install the required dependencies. Here are the installation instructions for some key components:
